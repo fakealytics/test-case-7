@@ -8,6 +8,6 @@ func someFunction() string {
 
 // Comment on line 9``
 func someOtherFunction() string {
-	variableB := "b"
+	variableB := "changed from b"
 	return variableB
 }
