@@ -7,7 +7,7 @@ func someFunction() string {
 }
 
 // Comment on line 9``
-func someOtherFunction() string {
-	variableB := "changed from b"
-	return variableB
+func someDifferentFunction() string {
+	variableC := "changed from c"
+	return variableC
 }
