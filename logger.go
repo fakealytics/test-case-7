@@ -2,7 +2,7 @@ import("fmt")
 
 package logger // TH
 
-func log(message string) string {
+func logger(message string) string {
 	fmt.Println(message)
 
 	return message;
