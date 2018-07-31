@@ -1,6 +1,6 @@
 import("fmt")
 
-package logger
+package logger // TH
 
 func log(message string) string {
 	fmt.Println(message)

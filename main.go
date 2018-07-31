@@ -1,7 +1,7 @@
 package main
 
 // Comment on line 3
-func bestFunction() string {
+func SomeFunction() string {
 	variableX := "X"
 	return variableX
 }
